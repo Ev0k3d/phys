@@ -3,9 +3,9 @@
     "name": "Physics Society",
     "tagline": "Explore. Experiment. Enlighten.",
     "heroImage": "/physicsocietyposter.png",
-    "video": {
+    "Site": {
       "title": "Inside the Physics Society Sessions",
-      "url": "https://www.youtube.com/watch?v=eMJk4y9NGvE"
+      "url": "https://sbcgsphysicsociety.vercel.app"
     },
     "description": "The Physics Society is your gateway to mind-bending thought experiments, interactive demonstrations, and weekly sessions designed to expand your understanding of the universe.",
     "features": [
@@ -36,7 +36,7 @@
     ],
     "callToAction": {
       "text": "Join the Physics Society Today!",
-      "url": "/shop/plumbus"
+      "url": "https://sbcgsphysicsociety.vercel.app"
     },
     "testimonials": [
       {
@@ -88,9 +88,9 @@
     "footer": {
       "legalDisclaimer": "The Physics Society is not responsible for unexpected bursts of curiosity or mind-expanding revelations. Engage responsibly.",
       "socialLinks": [
-        { "platform": "Instagram", "url": "https://www.instagram.com/t_3_ma" },
-        { "platform": "Twitter", "url": "https://twitter.com/temaprint" },
-        { "platform": "Facebook", "url": "https://facebook.com/temaprint" }
+        { "platform": "Instagram", "url": "https://sbcgsphysicsociety.vercel.app" },
+        { "platform": "Twitter", "url": "https://sbcgsphysicsociety.vercel.app" },
+        { "platform": "Facebook", "url": "https://sbcgsphysicsociety.vercel.app" }
       ],
       "contactEmail": "sbcgsphysicsociety@hotmail.com"
     }
@@ -118,13 +118,13 @@
       "og:title": "Physics Society – Explore, Experiment, Enlighten",
       "og:description": "Join the Physics Society for interactive sessions, thought experiments, and weekly explorations into the universe.",
       "og:type": "product",
-      "og:url": "https://plumbus.temaprint.com/shop",
+      "og:url": "https://sbcgsphysicsociety.vercel.app",
       "og:image": "/physicsocietyposter.png",
       "og:site_name": "Physics Society"
     },
     "twitterCard": {
       "card": "summary_large_image",
-      "site": "@plumbus4ever",
+      "site": "Physics Society",
       "creator": "@blamphWorker442",
       "title": "Join the Physics Society Today!",
       "description": "Participate in weekly interactive sessions and mind-bending thought experiments.",
@@ -142,7 +142,7 @@
       },
       "offers": {
         "@type": "Offer",
-        "url": "https://plumbus.temaprint.com/shop",
+        "url": "https://sbcgsphysicsociety.vercel.app",
         "priceCurrency": "BRP",
         "price": "0",
         "availability": "https://schema.org/InStock",
@@ -152,7 +152,7 @@
     "extraMeta": [
       {
         "name": "interdimensional-verification-code",
-        "content": "ZORP-42FLEEB-PLUMBUS-ACTIVATED"
+        "content": "Physics Society"
       },
       {
         "name": "alien-indexing-mode",
