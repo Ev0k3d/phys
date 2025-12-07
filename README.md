@@ -1,10 +1,5 @@
-# 🌌 Plumbus Landing Page
+# Physics Society
 
-![](public/pic_prev_1.jpg)
-![](public/pic_prev_2.jpg)
-![](public/pic_prev_3.jpg)
-![](public/pic_prev_4.jpg)
-A stunning, interdimensional landing page for the mysterious yet ubiquitous Plumbus. Built with Astro and enhanced with cosmic animations.
 
 ## ✨ Features
 
