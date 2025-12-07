@@ -2,7 +2,7 @@
 title: 'Physics Society'
 description: 'Explore the mind-bending experiments, thought-provoking sessions, and weekly cosmic adventures hosted by our Physics Society.'
 pubDate: 'Dec 07 2025'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '/physicsocietyposter.png'
 ---
 
 Every home has one, yet few understand its true nature. The Plumbus, a household device so common that its presence is taken for granted across infinite dimensions, remains one of the most enigmatic inventions in the multiverse.
