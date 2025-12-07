@@ -111,7 +111,7 @@
       "Hands-On Physics"
     ],
     "author": "Physics Society Leadership Team",
-    "canonical": "https://plumbus.temaprint.com/shop",
+    "canonical": "/physicsocietyposter.png",
     "robots": "index, follow",
     "language": "en-US",
     "openGraph": {
@@ -119,7 +119,7 @@
       "og:description": "Join the Physics Society for interactive sessions, thought experiments, and weekly explorations into the universe.",
       "og:type": "product",
       "og:url": "https://plumbus.temaprint.com/shop",
-      "og:image": "https://plumbus.temaprint.com/assets/images/plumbus-og.jpg",
+      "og:image": "/physicsocietyposter.png",
       "og:site_name": "Physics Society"
     },
     "twitterCard": {
@@ -128,13 +128,13 @@
       "creator": "@blamphWorker442",
       "title": "Join the Physics Society Today!",
       "description": "Participate in weekly interactive sessions and mind-bending thought experiments.",
-      "image": "https://plumbus.temaprint.com/assets/images/plumbus-twitter.jpg"
+      "image": "/physicsocietyposter.png"
     },
     "structuredData": {
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "Physics Society",
-      "image": "https://plumbus.temaprint.com/assets/images/plumbus-og.jpg",
+      "image": "/physicsocietyposter.png",
       "description": "A student-led society offering interactive physics sessions, workshops, and thought experiments.",
       "brand": {
         "@type": "Thing",
