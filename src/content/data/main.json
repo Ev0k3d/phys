@@ -15,7 +15,7 @@
       },
       {
         "title": "Weekly Interactive Sessions",
-        "description": "Led by Dr Aaron, our president, each session introduces new thought experiments and challenges."
+        "description": "Led by Steven Aaron, our president, each session introduces new thought experiments and challenges."
       },
       {
         "title": "Collaborative Learning Environment",
@@ -40,19 +40,19 @@
     },
     "testimonials": [
       {
-        "name": "Dr Aaron",
-        "quote": "Our sessions are designed to make you think, question, and sometimes completely rethink what you know."
+        "name": "Steven Aaron",
+        "quote": "Our sessions are designed to make you think, question and sometimes completely rethink what you know."
       },
       {
         "name": "Physics Member #1",
         "quote": "Every week is a new adventure. The thought experiments blow my mind."
       },
       {
-        "name": "Physics Member #2",
-        "quote": "It’s interactive, engaging, and educational — the perfect way to experience physics."
+        "name": "Anson",
+        "quote": "It’s interactive, engaging, and educational - the perfect way to experience physics."
       },
       {
-        "name": "Guest Lecturer",
+        "name": "Guest Speaker",
         "quote": "The society fosters curiosity and challenges conventional thinking — highly recommended."
       }
     ],
@@ -61,7 +61,7 @@
       "Material": "Student curiosity, creativity, and collaboration",
       "Maintenance": "Attend weekly sessions. Stay curious. Respect peers.",
       "Dimensions": "Limited only by imagination",
-      "Weight": "Influences minds proportionally to engagement"
+      "Functionality": "Provides hands-on experiments, interactive demonstrations, and thought experiments"
     },
     "faq": [
       {
