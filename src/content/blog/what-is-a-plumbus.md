@@ -1,7 +1,7 @@
 ---
-title: 'What is a Plumbus? A Comprehensive Guide'
-description: 'Discover everything you need to know about the mysterious yet ubiquitous Plumbus, the household device that everyone has but no one questions.'
-pubDate: 'Jun 15 2024'
+title: 'Physics Society'
+description: 'Explore the mind-bending experiments, thought-provoking sessions, and weekly cosmic adventures hosted by our Physics Society.'
+pubDate: 'Dec 07 2025'
 heroImage: '/blog-placeholder-1.jpg'
 ---
 
@@ -9,39 +9,40 @@ Every home has one, yet few understand its true nature. The Plumbus, a household
 
 ## The Basics
 
-A Plumbus is an organic-synthetic hybrid device that defies conventional classification. Its distinctive appearance – a curved, flesh-colored form with various protrusions and indentations – is instantly recognizable to beings across all dimensions.
+The Physics Society is a student-led community dedicated to exploring the frontiers of physics through interactive sessions, thought experiments, and weekly demonstrations. Each session challenges members to think critically, question assumptions, and explore concepts from classical mechanics to quantum phenomena.
 
-## Physical Characteristics
+## Society Structure and Setup
 
-- **Core Structure**: Made primarily of processed Dinglebop
-- **External Layer**: Fleeb-juice treated surface
-- **Texture**: Organic yet alarmingly slippery
-- **Color**: Varies from pale pink to muted flesh tones
-- **Size**: Relative to dimensional constants
+- **Core Members**: President: Steven Aaron, Vice-President, Secretary, and enthusiastic volunteers
+- **Weekly Sessions**: Interactive experiments and discussions
+- **Facilities**: School physics lab equipped with demonstration tools
+- **Equipment**: Pendulums, lasers, Geiger Counter, Yo-Yos and more
+- **Society Size**: Typically 12–30 students per session
 
-## Quantum Properties
+## Session Highlights
 
-The Plumbus exhibits several unique quantum properties:
+Each Physics Society session contains unique experimental and theoretical properties:
 
-1. **Dimensional Resonance**: Automatically adjusts its quantum frequency to match local dimensional constants
-2. **Temporal Stability**: Maintains consistent form across different time streams
-3. **Consciousness Level**: Semi-sentient (varies by manufacturing batch)
+1. **Thought Experiment Intensity**: Challenges members to stretch their imagination and understanding
+2. **Concept Retention**: Hands-on activities reinforce learning across weeks
+3. **Interactive Participation**: Members actively engage in discussions, problem-solving, and live demonstrations
 
 ## Cultural Significance
 
-In most civilized dimensions, the Plumbus has become such an integral part of daily life that its presence is barely noticed. It's often said that you don't realize how much you need a Plumbus until you find yourself without one.
+The Physics Society has become a cornerstone of our school’s scientific community. Students often report that attending even one session sparks curiosity that lasts all week. The society encourages critical thinking, collaboration, and an appreciation for the wonders of the universe.
 
-## Historical Context
+## History and Legacy
 
-The original inventor of the Plumbus remains unknown, leading some theorists to suggest that it might have spontaneously emerged from the quantum foam of the multiverse itself. The earliest recorded mention of a Plumbus dates back to the pre-Federation era.
+The Physics Society was founded in 2025 by our president, Dr Aaron (“Dr. A”), who envisioned a space for students to explore mind‑bending thought experiments and interactive physics sessions. While still new, the society has already sparked curiosity and discussion among its members, and it promises to grow into a hub of scientific exploration and cosmic discovery within the school.
 
-## Certification and Standards
+## Membership and Guidelines
 
-All legitimate Plumbuses must meet strict Galactic Federation guidelines:
+All members of the Physics Society are expected to meet the following standards:
 
-- Quantum-crystalline verification
-- Fleeb juice purity levels
-- Schlami contact duration
-- Grumbo compliance rating
+- Respect lab safety and equipment protocols
+- Actively participate in discussions, experiments, and thought exercises
+- Listen attentively to the session leader, engaging respectfully and raising questions at appropriate times
+- Collaborate constructively with peers to foster a positive learning environment
+- Document observations and reflect on learning to reinforce understanding
 
-Remember: If you can't verify your Plumbus's certification, it might be an unauthorized reproduction. Always purchase from authorized interdimensional retailers.
+Remember: Participation in sessions is highly encouraged, and curiosity is essential. Following these guidelines ensures that every member can safely and effectively explore the frontiers of physics.
